@@ -180,7 +180,7 @@
 // @downloadURL
 // @updateURL
 // @supportURL .gg/huneipa
-// @icon    https://cdn.discordapp.com/attachments/1349721093513936947/1355401775380955327/image0.gif?ex=67e8cbc5&is=67e77a45&hm=bc4da549216f393925e76efac1165fde25d7bcfe6c3dbf2c9e5951d55840b11a&
+// @icon    https://media.discordapp.net/attachments/1346720697195561041/1369019407170404352/hune.gif?ex=681a562d&is=681904ad&hm=1ac2c4f06cee397f2495083ae43e31dabcaebb3a6aa258c8f3dadc3dc480e5d2&=
 // @run-at       document-start
 // ==/UserScript==
 
